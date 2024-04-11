@@ -2,7 +2,7 @@
 
 Header
 
-This is a test report
+This is a test repository
 
 ●item1
 
